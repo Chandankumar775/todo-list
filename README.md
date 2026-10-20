@@ -1,4 +1,4 @@
-# To-Do List
+<img src="docs/brand/wordmark.webp" alt="To-Do List" width="100%">
 
 A small to-do list in a single HTML file, written while learning DOM manipulation.
 
